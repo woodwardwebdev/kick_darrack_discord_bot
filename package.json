@@ -1,0 +1,11 @@
+{
+  "name": "kick_darrack_discord",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Woodward",
+  "license": "ISC"
+}
